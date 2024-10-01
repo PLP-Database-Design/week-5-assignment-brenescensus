@@ -11,23 +11,9 @@ yarn-error.log*
 # Environment variables
 .env
 
-# Directory for local dependencies
-.idea/
-.vscode/
 
-# Coverage reports
-coverage/
 
-# OS files
-.DS_Store
 
-# Optional npm cache directory
-.npm/
 
-# Build directories
-dist/
-build/
 
-# Temporary files
-tmp/
-temp/
+
